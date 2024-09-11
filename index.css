@@ -1,0 +1,25 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.container {
+  height: 100vh;
+  padding: 0 25%;
+}
+
+.image-container {
+  padding-top: 10%;
+}
+.image-container img{
+    width: 100%;
+}
+.action-button {
+  width: 100%;
+  padding: 18px 0px;
+  background-color: #cebf1f;
+  border: none;
+  margin-top: -4px !important;
+  color: white;
+  font-size: 1.5rem;
+}
